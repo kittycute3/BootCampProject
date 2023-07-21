@@ -1,0 +1,12 @@
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\bin\Release\calculator.exe.config
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\bin\Release\calculator.exe
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\bin\Release\calculator.pdb
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\obj\Release\calculator.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\obj\Release\calculator.Form1.resources
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\obj\Release\calculator.Form2.resources
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\obj\Release\calculator.Form3.resources
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\obj\Release\calculator.Properties.Resources.resources
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\obj\Release\calculator.csproj.GenerateResource.cache
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\obj\Release\calculator.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\obj\Release\calculator.exe
+C:\Users\student\Documents\Краснова Екатерина\MyBootcampProject\calculator\obj\Release\calculator.pdb
